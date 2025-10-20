@@ -1,53 +1,53 @@
 
 ![Banner](./banner.png)
 
-🎓 Software Engineering Student | 💻 Learning every day
+Software Engineering Student | Learning every day
 
 ---
 
-## 🚀 About Me
-- 🌎 From Argentina  
-- 📚 Currently studying **Software Engineering**  
-- 💡 Curious, experimental, and always learning by building things  
-- ⚡ Into **FastAPI**, **React**, **TailwindCSS**, and a bit of **C++**  
+##  About Me
+- From Argentina  
+-  Currently studying **Software Engineering**  
+- Curious, experimental, and always learning by building things  
+- Into **FastAPI**, **React**, **TailwindCSS**, and a bit of **C++**  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 **Languages & Frameworks**  
-- Python 🐍 | FastAPI ⚡ | Flask  
-- JavaScript ✨ | React ⚛️ | TailwindCSS 🎨  
-- C++ ⚙️  
+- Python | FastAPI | Flask  
+- JavaScript | React | TailwindCSS  
+- C++  
 
 **Tools**  
-- Git & GitHub 🐙  
-- Docker 🐳  
-- VS Code 📝
-- IntellijIdea 📝
-- Figma 🎨
+- Git & GitHub 
+- Docker 
+- VS Code 
+- IntellijIdea 
+- Figma 
 
 ---
 
-## 📌 Featured Projects
-- 🔗 [Portfolio Website](ramiro.boccuzzi.com.ar) – My personal space on the web  
-- 📊 [Statistics API](https://github.com/Cuzzi-i/stadistics-by-cuzzi) – FastAPI project with SQLAlchemy  
+## Featured Projects
+- [Portfolio Website](ramiro.boccuzzi.com.ar) – My personal space on the web  
+- [Statistics API](https://github.com/Cuzzi-i/stadistics-by-cuzzi) – FastAPI project with SQLAlchemy  
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 - Advanced backend patterns with **FastAPI**  
 - Building better frontend designs with **Tailwind + React**  
 - Exploring **systems programming in C++**  
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 - GitHub: [@Cuzzi-i](https://github.com/Cuzzi-i)  
 - LinkedIn: [Ramiro Boccuzzi](https://www.linkedin.com/in/boccuzziramiroa/)
 
 ---
 
-⭐️ *Thanks for stopping by my profile! Always open to collaboration and learning new things.*
+*Thanks for stopping by my profile! Always open to collaboration and learning new things.*
 
 <!--
 **Cuzzi-i/cuzzi-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
